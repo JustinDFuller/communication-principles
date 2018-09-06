@@ -15,11 +15,11 @@ const principles = {
   "Influencing People": [
     "The only way to get the best of an argument is to avoid it.",
     "Show respect for the other person's opinions. Never say, \"You're wrong.\"",
-    "If you are wrong, admit it quickly and emphatically",
+    "If you are wrong, admit it quickly and emphatically.",
     "Begin in a friendly way.",
     "Get the other person saying \"yes, yes\" immediately.",
     "Let the other person do a great deal of the talking.",
-    "Let the other person feel that the idea is his or hers.",
+    "Let the other person feel that the idea is their own.",
     "Try honestly to see things from the other person's point of view.",
     "Be sympathetic with the other person's ideas and desires.",
     "Appeal to the nobler motives.",
