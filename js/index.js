@@ -1,7 +1,7 @@
 const principles = {
   Fundamentals: [
-    "Don't criticize, codemn, or complain.",
-    "Give honest and sincere apprection.",
+    "Don't criticize, condemn, or complain.",
+    "Give honest and sincere appreciation.",
     "Arouse in the other person an eager want."
   ],
   "Winning Friends": [
@@ -17,7 +17,7 @@ const principles = {
     "Show respect for the other person's opinions. Never say, \"You're wrong.\"",
     "If you are wrong, admit it quickly and emphatically",
     "Begin in a friendly way.",
-    "Get the oether person say \"yes, yes\" immediately.",
+    "Get the other person saying \"yes, yes\" immediately.",
     "Let the other person do a great deal of the talking.",
     "Let the other person feel that the idea is his or hers.",
     "Try honestly to see things from the other person's point of view.",
